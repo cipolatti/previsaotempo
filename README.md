@@ -1,4 +1,4 @@
-# previsaotempo
+# Previsao tempo
 Previsao do tempo com API do Open Weather Map
 
 ### Utilizado o postman para realização dos teste, abaixo os end-points:
